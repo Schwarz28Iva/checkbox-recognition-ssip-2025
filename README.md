@@ -22,8 +22,6 @@ For each processed image, the system produces:
 - checkbox coordinates;
 - a CSV file with the structured results.
 
-This was developed as a **four-person team project during SSIP 2025**.
-
 ## Processing Pipeline
 
 ```text
